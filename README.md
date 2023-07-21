@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Another notes
-This one also can be used for interview prepration. Because, this is already being explain by Dea Afrizal he is a youtuber who talks about programming. So that you can try this on and then you will get used to it. Especially if they want you to code live interview. And this one is for the front end web development.
+This one also can be used for interview prepration. Because, this is already being explain by Dea Afrizal he is a youtuber who talks about programming. So that you can try this on and then you will get used to it. Especially if they want you to code live interview. And this one is for the front end web development. Be ready, so that you will get a great job as a programmer.
 
 ## Available Scripts
 
